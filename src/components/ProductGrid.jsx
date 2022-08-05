@@ -20,7 +20,7 @@ function ProductGrid() {
                   <div className='text-[15px] line-through text-grey'>{oldPrice}</div>
                 </div>
               </div>
-              <div className='cursor-pointer font-semibold rounded-lg flex items-center px-4 py-1 text-white bg-secondary hover:bg-[#becad6] transition'>خرید</div>
+              <div className='cursor-pointer font-semibold rounded-lg flex items-center px-4 py-1 text-primary bg-secondary hover:bg-[#becad6] transition'>خرید</div>
             </div>               
           </div>
       )})}

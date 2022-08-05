@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
 
   return (
-    <section name='home' className="w-full h-[750px] bg-hero  bg-left lg:bg-center bg-cover bg-no-repeat text-white pt-[225px] pb-[254px] relative mb-12 lg:mb-12">
+    <section name='home' className="w-full h-[750px] bg-hero  bg-left lg:bg-center bg-cover bg-no-repeat text-primary pt-[225px] pb-[254px] relative mb-12 lg:mb-12">
         <div className='w-full h-full absolute top-0 left-0 -z-10 bg-[rgba(0,0,0,1)] '></div>
         <div className='container mx-auto text-center z-10'>
             <h1 className='text-3xl mx-auto font-semibold mb-[30px] lg:text-[64px] lg:leading-tight lg:max-w-[888px]'>خانه ی رویایی خود را با محصولات ما بسازید</h1>
